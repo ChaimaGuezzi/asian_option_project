@@ -15,3 +15,5 @@ This project prices an arithmetic Asian call option using Monte Carlo simulation
 
 ## Results
 The price converges to approximately 2.32 for S0=100, K=115, r=0.05, σ=0.1, T=5.
+
+> *Note: The full report is in French.*
